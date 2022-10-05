@@ -20,3 +20,7 @@ body {
 .myContainer section#tableSection > table > tbody {
     vertical-align: middle;
 }
+
+.claseDeMergeConflict {
+    width: auto;
+}
